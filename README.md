@@ -1,5 +1,5 @@
 WDG PROJECT MANAGEMENT 
-WDG
+
 
 Project Management in Laravel is a comprehensive web application built using the Laravel framework that helps organizations and teams efficiently manage their projects. It provides a range of features and functionalities to streamline project planning, execution, and monitoring.
 
